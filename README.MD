@@ -12,3 +12,10 @@ __VISCA EL BARCA__
 # 5-2
 # 4-0
 # 2-1
+# 11-1
+# 8-2
+# 15 ucl
+# 36 la liga
+# 4-0
+# 3-1
+# HALA MADRID
